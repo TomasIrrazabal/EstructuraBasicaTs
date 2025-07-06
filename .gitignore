@@ -1,0 +1,37 @@
+# Ignorar archivos JavaScript
+*.js
+
+# Ignorar archivos TypeScript
+*.ts
+
+# Ignorar hojas de estilo
+*.css
+*.scss
+
+# Ignorar archivos HTML
+*.html
+
+# Ignorar archivos JSON
+*.json
+
+# Ignorar archivos de mapas de código fuente (source maps)
+*.map
+
+# Ignorar archivos relacionados con Gulp (ej: configuración compilada o temporales)
+gulpfile.js
+gulpfile.ts
+.gulp/
+
+# Ignorar node_modules (muy importante para proyectos JS/TS)
+node_modules/
+
+# Ignorar carpetas de compilados típicos
+dist/
+build/
+
+# Ignorar archivos del sistema o editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
