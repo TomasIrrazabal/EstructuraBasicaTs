@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/ts/app.ts"],"names":[],"mappings":";AAAA,MAAM,KAAK,GAAU,cAAc,CAAA;AACnC,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,CAAA","file":"app.js","sourcesContent":["const hello:string = 'Hello World!'\r\nconsole.log(hello)"]}
